@@ -86,7 +86,7 @@ pip install -r requirements.txt
 
 ## 👇 Gostou do meu projeto?
 Considere dar uma estrela e me seguir aqui no Github e nas plataformas abaixo:
-- LinkedIn: https://www.linkedin.com/in/matheus-mesquita-a76509341/
+- LinkedIn: https://www.linkedin.com/in/matheus-mesquita-cintra-carvalho-a76509341/
 - Kaggle: https://www.kaggle.com/mesquitam21
 
 Abraços! 🚀
